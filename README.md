@@ -1,7 +1,7 @@
 <h1> Hey there 👋</h1>
 <h3>I am Alvin</h3>
 🔭 "I’m not doing anything big. Just something for fun"<br>
-💬 Ask me about Discord API and FFMPEG
+💬 Ask me about Discord API and FFMPEG<br>
 👯 I’m looking to collaborate on any Python / 
 <img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/GlassSphere.png" >
 <h4>I am a student in DPSE Bangalore. Love 3D softwares and rendering, Coding and Linux.</h4>
