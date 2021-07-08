@@ -1,8 +1,9 @@
 <h1> Hey there 👋</h1>
-<img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/GlassSphere.png" >
-<h4>I am a student in DPSE Bangalore. Love 3D softwares and rendering, Coding and Linux.<br> I know</h4>
 🔭 "I’m not doing anything big. Just something for fun"<br>
 💬 Ask me about Discord API and FFMPEG
+<img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/GlassSphere.png" >
+<h4>I am a student in DPSE Bangalore. Love 3D softwares and rendering, Coding and Linux.<br> I know</h4>
+
 <!--
 **alvinbengeorge/alvinbengeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
