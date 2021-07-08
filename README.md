@@ -2,8 +2,8 @@
 <h3>I am Alvin</h3>
 <h4>I am a student in DPSE Bangalore. Love 3D softwares and rendering, Coding and Linux.</h4>
 🔭 "I’m not doing anything big. Just something for fun"<br>
-💬 Ask me about Discord API and FFMPEG<br>
-👯 I’m looking to collaborate on any Python project which requires/involves Front End
+💬 Ask me about Discord API<br>
+👯 I’m looking to collaborate on any Python project which requires/involves Front End<br>
 ⚡ Fun fact: Fan of Batman
 <img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/GlassSphere.png" >
 
