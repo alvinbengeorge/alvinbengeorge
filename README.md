@@ -1,6 +1,7 @@
-<h1> Hi there 👋</h1>
+<h1> Hey there 👋</h1>
 
 <h4>I am a student in DPSE Bangalore. Love 3D softwares, Coding and Linux.
+  
 </h4>
 
 <!--
