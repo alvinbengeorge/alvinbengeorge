@@ -1,6 +1,6 @@
 <h1> Hi I am Alvin 👋</h1>
 <img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/GlassSphere.png" >
-<h3>I am a student in DPSE Bangalore.<br>Love 3D softwares, Coding in Python and Linux.</h3>
+<h3>I am a student in DPSE Bangalore.<br>Love Designing, Coding in Python and Linux.</h3>
 🔭 "I’m not doing anything big. Just something for fun"<br>
 💬 Ask me about Discord API and Opencv-Python<br>
 ⚡ Fun fact: Big Fan of Batman
