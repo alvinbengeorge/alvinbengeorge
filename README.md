@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1> Hi there 👋</h1>
+![Glass sphere](https://user-images.githubusercontent.com/69302420/124933646-ac0ce180-e021-11eb-9ecf-4605dac243c0.png)
+<h4>I am a student in DPSE Bangalore. Love 3D softwares, Coding and Linux.
+</h4>
 
 <!--
 **alvinbengeorge/alvinbengeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
