@@ -1,11 +1,12 @@
 <h1> Hi I am Alvin 👋</h1>
 <img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/GlassSphere-min.png" >
-<img src="https://github-readme-stats.vercel.app/api?username=alvinbengeorge&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alvinbengeorge&show_icons=true&theme=gotham" alt="github stats" width="100%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=dark" width="100%" >
 <h3>I am a student in DPSE Bangalore.<br>Love Designing, Coding in Python and Linux.</h3>
 🔭 "I’m not doing anything big. Just something for fun"<br>
 💬 Ask me about Discord API and Opencv-Python<br>
 ⚡ Fun fact: Big Fan of Batman
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=dark" width="48%" >
+
 
 
 <!--
