@@ -5,8 +5,8 @@
 💬 Ask me about Discord API and Opencv-Python<br>
 ⚡ Fun fact: Big Fan of Batman
 
-<img src="https://github-readme-stats.vercel.app/api?username=alvinbengeorge&show_icons=true&theme=gotham" alt="github stats" width="100%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=dark" width="100%" >
+<img src="https://github-readme-stats.vercel.app/api?username=alvinbengeorge&show_icons=true&theme=gotham" alt="github stats" width="75%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=dark" width="75%" >
 
 <!--
 **alvinbengeorge/alvinbengeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
