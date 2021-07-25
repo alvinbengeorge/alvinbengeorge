@@ -6,7 +6,6 @@
 💬 Ask me about Discord API and Opencv-Python<br>
 ⚡ Fun fact: Big Fan of Batman
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=dark" width="48%" >
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&layout=compact)
 
 
 <!--
