@@ -7,8 +7,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=alvinbengeorge&show_icons=true&theme=gotham" alt="github stats" width="49%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=dark" width="49%" align="right">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&theme=dark" width="49%" align="right">
 <img src="https://activity-graph.herokuapp.com/graph?username=alvinbengeorge&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge)]
+
 <!--
 **alvinbengeorge/alvinbengeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
