@@ -40,9 +40,10 @@
       </p>
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Fedora-1793D1?style=for-the-badge&logo=fedora&logoColor=white">
-      <img src="https://img.shields.io/badge/Intel-i3-4005U?style=for-the-badge&logo=intel&logoColor=white">
-      <img src="https://img.shields.io/badge/Aspire-e5-5571?style=for-the-badge&logo=acer&logoColor=white">
+      <img src="https://img.shields.io/badge/Fedora-34-0B57A4?style=for-the-badge&logo=fedora&logoColor=white">
+      <img src="https://img.shields.io/badge/Intel-i3-00AADD?style=for-the-badge&logo=intel&logoColor=white">
+      <img src="https://img.shields.io/badge/Intel-HD%20Graphics-1188CC?style=for-the-badge&logo=intel&logoColor=white">
+      <img src="https://img.shields.io/badge/Aspire-e5-0088CC?style=for-the-badge&logo=acer&logoColor=white">
     </th>
       
     
