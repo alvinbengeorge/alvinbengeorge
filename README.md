@@ -1,5 +1,5 @@
 <h1> Hi I am Alvin 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=alvinbengeorge&label=Profile%20views&color=12171f&style=flat">
+<img src="https://komarev.com/ghpvc/?username=alvinbengeorge&label=Profile%20views&color=004488&style=flat">
 <table>
   <tr>
     <th width="50%">
