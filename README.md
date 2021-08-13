@@ -24,10 +24,10 @@
   </table>
   <table>
   <tr>   
-    <th>
+    <th width="40%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&theme=dark">
     </th>
-    <th width="40%">
+    <th width="35%">
       <p>
         <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
         <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
