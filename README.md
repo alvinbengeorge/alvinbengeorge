@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th width="50%">
-      <img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/GlassSphere-min.png"> 
+      <img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/crystal.png"> 
     </th>
     <th>
       <h3>I am a student in DPSE Bangalore.<br>Love Designing, Coding in Python and Linux.</h3>
