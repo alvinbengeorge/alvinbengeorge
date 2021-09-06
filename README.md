@@ -44,6 +44,7 @@
       <img src="https://img.shields.io/badge/Intel-i3-00AADD?style=for-the-badge&logo=intel&logoColor=white">
       <img src="https://img.shields.io/badge/Intel-HD%20Graphics-1188CC?style=for-the-badge&logo=intel&logoColor=white">
       <img src="https://img.shields.io/badge/Aspire-e5-0088CC?style=for-the-badge&logo=acer&logoColor=white">
+      <img src="https://img.shields.io/badge/RAM-4GB-0088CC?style=for-the-badge&logoColor=white">
     </th>
       
     
