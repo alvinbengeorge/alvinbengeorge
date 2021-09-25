@@ -9,8 +9,9 @@
     <th>
       <h3>I am a student in DPSE Bangalore.<br>Love Designing, Coding in Python and Linux.</h3>
       🔭 "I’m not doing anything big. Just something for fun"<br><br>
-      💬 Ask me about Discord API and OpenCV-Python<br><br>
+      💬 Ask me about Discord API and OpenCV-Python<br><br>      
       ⚡ Fun fact: Big Fan of Batman
+      🌱 Using Fedora<br><br>
     </th>
   </tr>
   <tr>
