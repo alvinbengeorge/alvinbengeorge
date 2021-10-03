@@ -12,6 +12,7 @@
       💬 Ask me about Discord API and OpenCV-Python<br><br>      
       ⚡ Fun fact: Big Fan of Batman<br><br>
       🌱 Using Fedora<br><br>
+      😄 Pronouns: He/Him
     </th>
   </tr>
   <tr>
