@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th width="50%">
-      <img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/crystal.png"> 
+      <img src="https://github.com/alvinbengeorge/alvinbengeorge/blob/main/fire.jpg"> 
     </th>
     <th>
       <h3>I am a student in DPSE Bangalore.<br>Love Designing, Coding in Python and Linux.</h3>
@@ -20,14 +20,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=alvinbengeorge&show_icons=true&theme=gotham" alt="github stats"/>
     </th>
     <th>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=dark">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=gotham">
     </th>
   </tr>
   </table>
   <table>
   <tr>   
     <th width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&theme=dark">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&theme=gotham">
     </th>
     <th width="35%">
       <p>
@@ -54,23 +54,3 @@
 </table>
 <img src="https://activity-graph.herokuapp.com/graph?username=alvinbengeorge&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
     
-    
-
-
-
-
-
-<!--
-**alvinbengeorge/alvinbengeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
