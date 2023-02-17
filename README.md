@@ -2,10 +2,20 @@
 
 # Hi‼️ My name is Alvin
 
-- I am 18 years old
-- I study in SRM University Chennai
-- Electronics and Computer Science Student
-- Interested in Blender and Python
+```py
+from typing import List
+
+aboutMe: List[str] = [
+  "I am 19 years old",
+  "I study in SRM University KTR",
+  "Electronics and Computer Science Student",
+  "Interested in Blender, NodeJS and Python",
+  "MEN Developer" 
+]
+
+for i in aboutMe: 
+  print(i) #I don't forget indentation
+```
 
 ## Tools
 <p>
@@ -17,4 +27,3 @@
 </p>
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=gotham)
-![contribgraph](https://activity-graph.herokuapp.com/graph?username=alvinbengeorge&custom_title=Contribution%20Graph&theme=gotham)
