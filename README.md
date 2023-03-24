@@ -27,3 +27,4 @@ for i in aboutMe:
 </p>
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=gotham)
+![topLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&layout=compact&theme=gotham)
