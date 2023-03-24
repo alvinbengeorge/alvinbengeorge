@@ -26,5 +26,5 @@ for i in aboutMe:
   <img alt="Rust" src="https://img.shields.io/badge/Rust-FF7A00.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=gotham)
-![topLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&layout=compact&theme=gotham)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=gotham) \
+![topLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&theme=gotham)
