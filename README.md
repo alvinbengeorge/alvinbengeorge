@@ -35,6 +35,6 @@ for i in aboutMe:
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinbengeorge&theme=gotham) 
+![streak](https://streak-stats.demolab.com?user=alvinbengeorge&theme=gotham) 
 ![stats](https://github-readme-stats.vercel.app/api?username=alvinbengeorge&show_icons=true&theme=gotham)\
 ![topLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&theme=gotham&layout=compact)
