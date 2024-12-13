@@ -37,4 +37,4 @@ for i in aboutMe:
 
 ![streak](https://streak-stats.demolab.com?user=alvinbengeorge&theme=gotham) 
 ![stats](https://github-readme-stats.vercel.app/api?username=alvinbengeorge&show_icons=true&theme=gotham)\
-![topLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&exclude_repo=webschool_django)
+![topLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinbengeorge&exclude_repo=webschool_django&theme=gotham)
